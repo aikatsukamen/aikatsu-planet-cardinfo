@@ -1,0 +1,1911 @@
+[
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー三笠店",
+    "address": "北海道三笠市岡山１０５９－１ イオン三笠１階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E4%B8%89%E7%AC%A0%E5%B8%82%E5%B2%A1%E5%B1%B1%EF%BC%91%EF%BC%90%EF%BC%95%EF%BC%99%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%89%E7%AC%A0%EF%BC%91%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン伊達店",
+    "address": "北海道伊達市末永町８－１ イオン伊達",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E4%BC%8A%E9%81%94%E5%B8%82%E6%9C%AB%E6%B0%B8%E7%94%BA%EF%BC%98%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E4%BC%8A%E9%81%94&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "MEGAドン・キホーテ函館店",
+    "address": "北海道函館市美原１－７－１ ＭＥＧＡドン・キホーテ函館",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0100"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%87%BD%E9%A4%A8%E5%B8%82%E7%BE%8E%E5%8E%9F%EF%BC%91%EF%BC%8D%EF%BC%97%EF%BC%8D%EF%BC%91%EF%BC%AD%EF%BC%A5%EF%BC%A7%EF%BC%A1%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%E5%87%BD%E9%A4%A8&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イトーヨーカドー函館店",
+    "address": "北海道函館市美原１－３－１ イトーヨーカドー函館",
+    "machines": [
+      {
+        "slots": [],
+        "lastupdate": "2021-12-09"
+      },
+      {
+        "slots": [],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%87%BD%E9%A4%A8%E5%B8%82%E7%BE%8E%E5%8E%9F%EF%BC%91%EF%BC%8D%EF%BC%93%EF%BC%8D%EF%BC%91%E3%82%A4%E3%83%88%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AB%E3%83%89%E3%83%BC%E5%87%BD%E9%A4%A8&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパーク函館昭和",
+    "address": "北海道函館市昭和3丁目24-18 ゲオ函館昭和店内",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%87%BD%E9%A4%A8%E5%B8%82%E6%98%AD%E5%92%8C3%E4%B8%81%E7%9B%AE24-18%E3%82%B2%E3%82%AA%E5%87%BD%E9%A4%A8%E6%98%AD%E5%92%8C%E5%BA%97%E5%86%85&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー湯川店",
+    "address": "北海道函館市湯川町3-14-5 イオン湯川2F",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%87%BD%E9%A4%A8%E5%B8%82%E6%B9%AF%E5%B7%9D%E7%94%BA3-14-5%E3%82%A4%E3%82%AA%E3%83%B3%E6%B9%AF%E5%B7%9D2F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "宝島 函館店",
+    "address": "北海道函館市美原1-7-1 MEGAドン・キホーテ函館2階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-09"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%87%BD%E9%A4%A8%E5%B8%82%E7%BE%8E%E5%8E%9F1-7-1MEGA%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%E5%87%BD%E9%A4%A82%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパーク上磯",
+    "address": "北海道北斗市七重浜７－１４－１ スーパーセンタートライアル上磯",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8C%97%E6%96%97%E5%B8%82%E4%B8%83%E9%87%8D%E6%B5%9C%EF%BC%97%EF%BC%8D%EF%BC%91%EF%BC%94%EF%BC%8D%EF%BC%91%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%AB%E4%B8%8A%E7%A3%AF&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー上磯店",
+    "address": "北海道北斗市七重浜4-44-1 イオン上磯1階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8C%97%E6%96%97%E5%B8%82%E4%B8%83%E9%87%8D%E6%B5%9C4-44-1%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%8A%E7%A3%AF1%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン北見店",
+    "address": "北海道北見市北進町１－１－１ イオン北見",
+    "machines": [
+      {
+        "slots": [
+          "0200",
+          "0200"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0200",
+          "0200"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8C%97%E8%A6%8B%E5%B8%82%E5%8C%97%E9%80%B2%E7%94%BA%EF%BC%91%EF%BC%8D%EF%BC%91%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E5%8C%97%E8%A6%8B&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イトーヨーカドー北見店",
+    "address": "北海道北見市光西町１８５ イトーヨーカドー北見",
+    "machines": [
+      {
+        "slots": [],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8C%97%E8%A6%8B%E5%B8%82%E5%85%89%E8%A5%BF%E7%94%BA%EF%BC%91%EF%BC%98%EF%BC%95%E3%82%A4%E3%83%88%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AB%E3%83%89%E3%83%BC%E5%8C%97%E8%A6%8B&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イーストモール",
+    "address": "北海道北見市端野町三区５７２－１ 東武イーストモール橋野",
+    "machines": [
+      {
+        "slots": [],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8C%97%E8%A6%8B%E5%B8%82%E7%AB%AF%E9%87%8E%E7%94%BA%E4%B8%89%E5%8C%BA%EF%BC%95%EF%BC%97%EF%BC%92%EF%BC%8D%EF%BC%91%E6%9D%B1%E6%AD%A6%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A2%E3%83%BC%E3%83%AB%E6%A9%8B%E9%87%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパーク北見",
+    "address": "北海道北見市西三輪５―１―１６ ディノスパーク北見",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8C%97%E8%A6%8B%E5%B8%82%E8%A5%BF%E4%B8%89%E8%BC%AA%EF%BC%95%E2%80%95%EF%BC%91%E2%80%95%EF%BC%91%EF%BC%96%E3%83%87%E3%82%A3%E3%83%8E%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E5%8C%97%E8%A6%8B&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "東武端野店アミューズメントシティ",
+    "address": "北海道北見市端野町三区５７２－１ 東武イーストモール橋野",
+    "machines": [
+      {
+        "slots": [
+          "0200",
+          "0100"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8C%97%E8%A6%8B%E5%B8%82%E7%AB%AF%E9%87%8E%E7%94%BA%E4%B8%89%E5%8C%BA%EF%BC%95%EF%BC%97%EF%BC%92%EF%BC%8D%EF%BC%91%E6%9D%B1%E6%AD%A6%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A2%E3%83%BC%E3%83%AB%E6%A9%8B%E9%87%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "アピナ新千歳空港店",
+    "address": "北海道千歳市美々１２９２番地３３ アピナ新千歳空港４Ｆ",
+    "machines": [
+      {
+        "slots": [
+          "0200",
+          "0200"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8D%83%E6%AD%B3%E5%B8%82%E7%BE%8E%E3%80%85%EF%BC%91%EF%BC%92%EF%BC%99%EF%BC%92%E7%95%AA%E5%9C%B0%EF%BC%93%EF%BC%93%E3%82%A2%E3%83%94%E3%83%8A%E6%96%B0%E5%8D%83%E6%AD%B3%E7%A9%BA%E6%B8%AF%EF%BC%94%EF%BC%A6&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン千歳キッズ・パーク",
+    "address": "北海道千歳市栄町６－６１ イオン千歳",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8D%83%E6%AD%B3%E5%B8%82%E6%A0%84%E7%94%BA%EF%BC%96%EF%BC%8D%EF%BC%96%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%83%E6%AD%B3&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン千歳店",
+    "address": "北海道千歳市栄町６－５１ イオン千歳",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8D%83%E6%AD%B3%E5%B8%82%E6%A0%84%E7%94%BA%EF%BC%96%EF%BC%8D%EF%BC%95%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%83%E6%AD%B3&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパークちとせモール",
+    "address": "北海道千歳市勇舞8丁目1番地1",
+    "machines": [
+      {
+        "slots": [
+          "0100",
+          "0100"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%8D%83%E6%AD%B3%E5%B8%82%E5%8B%87%E8%88%9E8%E4%B8%81%E7%9B%AE1%E7%95%AA%E5%9C%B01&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー名寄店",
+    "address": "北海道名寄市字徳田８０番地１ イオン名寄ショッピングセンター２階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0100",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%90%8D%E5%AF%84%E5%B8%82%E5%AD%97%E5%BE%B3%E7%94%B0%EF%BC%98%EF%BC%90%E7%95%AA%E5%9C%B0%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E5%90%8D%E5%AF%84%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン室蘭アミューズメントランド",
+    "address": "北海道室蘭市東町2丁目4-32 イオン室蘭",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%AE%A4%E8%98%AD%E5%B8%82%E6%9D%B1%E7%94%BA2%E4%B8%81%E7%9B%AE4-32%E3%82%A4%E3%82%AA%E3%83%B3%E5%AE%A4%E8%98%AD&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパーク室蘭中央",
+    "address": "北海道室蘭市中央町3-1-8 スーパーアークス室蘭中央店3階",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%AE%A4%E8%98%AD%E5%B8%82%E4%B8%AD%E5%A4%AE%E7%94%BA3-1-8%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B9%E5%AE%A4%E8%98%AD%E4%B8%AD%E5%A4%AE%E5%BA%973%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "namcoウイングベイ小樽店",
+    "address": "北海道小樽市築港11番5号 ウイングベイ小樽2階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B0%8F%E6%A8%BD%E5%B8%82%E7%AF%89%E6%B8%AF11%E7%95%AA5%E5%8F%B7%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%99%E3%82%A4%E5%B0%8F%E6%A8%BD2%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン小樽店",
+    "address": "北海道小樽市築港１１－６ ウイングベイ小樽",
+    "machines": [
+      {
+        "slots": [
+          "0100",
+          "0100"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B0%8F%E6%A8%BD%E5%B8%82%E7%AF%89%E6%B8%AF%EF%BC%91%EF%BC%91%EF%BC%8D%EF%BC%96%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%99%E3%82%A4%E5%B0%8F%E6%A8%BD&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン岩見沢店",
+    "address": "北海道岩見沢市大和４条８－１ イオン岩見沢",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B2%A9%E8%A6%8B%E6%B2%A2%E5%B8%82%E5%A4%A7%E5%92%8C%EF%BC%94%E6%9D%A1%EF%BC%98%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E5%B2%A9%E8%A6%8B%E6%B2%A2&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "MEGAドン・キホーテ西帯広店",
+    "address": "北海道帯広市西２１条南４－１ ＭＥＧＡドン・キホーテ西帯広",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B8%AF%E5%BA%83%E5%B8%82%E8%A5%BF%EF%BC%92%EF%BC%91%E6%9D%A1%E5%8D%97%EF%BC%94%EF%BC%8D%EF%BC%91%EF%BC%AD%EF%BC%A5%EF%BC%A7%EF%BC%A1%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%E8%A5%BF%E5%B8%AF%E5%BA%83&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン帯広キッズ・パーク",
+    "address": "北海道帯広市西４条南２０丁目 イオン帯広",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B8%AF%E5%BA%83%E5%B8%82%E8%A5%BF%EF%BC%94%E6%9D%A1%E5%8D%97%EF%BC%92%EF%BC%90%E4%B8%81%E7%9B%AE%E3%82%A4%E3%82%AA%E3%83%B3%E5%B8%AF%E5%BA%83&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン帯広店",
+    "address": "北海道帯広市西４条南２０－１ イオン帯広",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0200"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B8%AF%E5%BA%83%E5%B8%82%E8%A5%BF%EF%BC%94%E6%9D%A1%E5%8D%97%EF%BC%92%EF%BC%90%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E5%B8%AF%E5%BA%83&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イトーヨーカドー帯広店",
+    "address": "北海道帯広市稲田町南８線西１０－１ イトーヨーカドー帯広",
+    "machines": [
+      {
+        "slots": [],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B8%AF%E5%BA%83%E5%B8%82%E7%A8%B2%E7%94%B0%E7%94%BA%E5%8D%97%EF%BC%98%E7%B7%9A%E8%A5%BF%EF%BC%91%EF%BC%90%EF%BC%8D%EF%BC%91%E3%82%A4%E3%83%88%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AB%E3%83%89%E3%83%BC%E5%B8%AF%E5%BA%83&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパーク帯広",
+    "address": "北海道帯広市白樺１６条西２丁目 ドリームタウン白樺",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B8%AF%E5%BA%83%E5%B8%82%E7%99%BD%E6%A8%BA%EF%BC%91%EF%BC%96%E6%9D%A1%E8%A5%BF%EF%BC%92%E4%B8%81%E7%9B%AE%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%BF%E3%82%A6%E3%83%B3%E7%99%BD%E6%A8%BA&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパーク帯広稲田",
+    "address": "北海道帯広市稲田町南８線西１２－１ 帯広スズランボウル",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B8%AF%E5%BA%83%E5%B8%82%E7%A8%B2%E7%94%B0%E7%94%BA%E5%8D%97%EF%BC%98%E7%B7%9A%E8%A5%BF%EF%BC%91%EF%BC%92%EF%BC%8D%EF%BC%91%E5%B8%AF%E5%BA%83%E3%82%B9%E3%82%BA%E3%83%A9%E3%83%B3%E3%83%9C%E3%82%A6%E3%83%AB&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ファンタジープラザ帯広店",
+    "address": "北海道帯広市西四条南１２－３ 長崎屋帯広２階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B8%AF%E5%BA%83%E5%B8%82%E8%A5%BF%E5%9B%9B%E6%9D%A1%E5%8D%97%EF%BC%91%EF%BC%92%EF%BC%8D%EF%BC%93%E9%95%B7%E5%B4%8E%E5%B1%8B%E5%B8%AF%E5%BA%83%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ファンタジープラザ西帯広",
+    "address": "北海道帯広市西二十一条南４－１ ＭＥＧＡドン・キホーテ西帯広２階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E5%B8%AF%E5%BA%83%E5%B8%82%E8%A5%BF%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9D%A1%E5%8D%97%EF%BC%94%EF%BC%8D%EF%BC%91%EF%BC%AD%EF%BC%A5%EF%BC%A7%EF%BC%A1%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%E8%A5%BF%E5%B8%AF%E5%BA%83%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "キャッツアイ恵庭店",
+    "address": "北海道恵庭市住吉町2丁目 9番1号",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%81%B5%E5%BA%AD%E5%B8%82%E4%BD%8F%E5%90%89%E7%94%BA2%E4%B8%81%E7%9B%AE9%E7%95%AA1%E5%8F%B7&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "MEGAドン・キホーテ旭川店",
+    "address": "北海道旭川市春光１条８－１－６５ ＭＥＧＡドン・キホーテ旭川",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%AD%E5%B7%9D%E5%B8%82%E6%98%A5%E5%85%89%EF%BC%91%E6%9D%A1%EF%BC%98%EF%BC%8D%EF%BC%91%EF%BC%8D%EF%BC%96%EF%BC%95%EF%BC%AD%EF%BC%A5%EF%BC%A7%EF%BC%A1%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%E6%97%AD%E5%B7%9D&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン旭川永山店",
+    "address": "北海道旭川市永山３条１２－２－１１ イオン旭川永山",
+    "machines": [
+      {
+        "slots": [
+          "0100",
+          "0100"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%AD%E5%B7%9D%E5%B8%82%E6%B0%B8%E5%B1%B1%EF%BC%93%E6%9D%A1%EF%BC%91%EF%BC%92%EF%BC%8D%EF%BC%92%EF%BC%8D%EF%BC%91%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E6%97%AD%E5%B7%9D%E6%B0%B8%E5%B1%B1&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ソユーゲームフィールド旭川西店",
+    "address": "北海道旭川市緑町23-2161-3 イオン旭川西3階",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%AD%E5%B7%9D%E5%B8%82%E7%B7%91%E7%94%BA23-2161-3%E3%82%A4%E3%82%AA%E3%83%B3%E6%97%AD%E5%B7%9D%E8%A5%BF3%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ソユーゲームフィールド旭川駅前",
+    "address": "北海道旭川市宮下通７－２－５ イオンモール旭川駅前４階",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0100",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%AD%E5%B7%9D%E5%B8%82%E5%AE%AE%E4%B8%8B%E9%80%9A%EF%BC%97%EF%BC%8D%EF%BC%92%EF%BC%8D%EF%BC%95%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%97%AD%E5%B7%9D%E9%A7%85%E5%89%8D%EF%BC%94%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパーク旭川",
+    "address": "北海道旭川市大雪通り５丁目４９６－５ ディノスパーク旭川",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%AD%E5%B7%9D%E5%B8%82%E5%A4%A7%E9%9B%AA%E9%80%9A%E3%82%8A%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%94%EF%BC%99%EF%BC%96%EF%BC%8D%EF%BC%95%E3%83%87%E3%82%A3%E3%83%8E%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E6%97%AD%E5%B7%9D&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー旭川パルプ店",
+    "address": "北海道旭川市パルプ町1条2丁目505番2 ショッピングセンターパルプタウン1F",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0300",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%AD%E5%B7%9D%E5%B8%82%E3%83%91%E3%83%AB%E3%83%97%E7%94%BA1%E6%9D%A12%E4%B8%81%E7%9B%AE505%E7%95%AA2%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%91%E3%83%AB%E3%83%97%E3%82%BF%E3%82%A6%E3%83%B31F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー旭川西店",
+    "address": "北海道旭川市緑町２３－２１６１－３ イオン旭川西２階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%AD%E5%B7%9D%E5%B8%82%E7%B7%91%E7%94%BA%EF%BC%92%EF%BC%93%EF%BC%8D%EF%BC%92%EF%BC%91%EF%BC%96%EF%BC%91%EF%BC%8D%EF%BC%93%E3%82%A4%E3%82%AA%E3%83%B3%E6%97%AD%E5%B7%9D%E8%A5%BF%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "遊ランド西御料店",
+    "address": "北海道旭川市西御料５条２丁目６４－１９ 遊ランド西御料",
+    "machines": [
+      {
+        "slots": [
+          "0300",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%AD%E5%B7%9D%E5%B8%82%E8%A5%BF%E5%BE%A1%E6%96%99%EF%BC%95%E6%9D%A1%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%96%EF%BC%94%EF%BC%8D%EF%BC%91%EF%BC%99%E9%81%8A%E3%83%A9%E3%83%B3%E3%83%89%E8%A5%BF%E5%BE%A1%E6%96%99&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "MAXIM HERO",
+    "address": "北海道札幌市北区北六条西６丁目 ＪＲ札幌駅高架下",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%E5%8C%97%E5%85%AD%E6%9D%A1%E8%A5%BF%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%AA%EF%BC%B2%E6%9C%AD%E5%B9%8C%E9%A7%85%E9%AB%98%E6%9E%B6%E4%B8%8B&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "MEGAドン・キホーテ新川店",
+    "address": "北海道札幌市北区新川２条７－３－２０ ＭＥＧＡドン・キホーテ新川",
+    "machines": [
+      {
+        "slots": [
+          "0100",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%E6%96%B0%E5%B7%9D%EF%BC%92%E6%9D%A1%EF%BC%97%EF%BC%8D%EF%BC%93%EF%BC%8D%EF%BC%92%EF%BC%90%EF%BC%AD%EF%BC%A5%EF%BC%A7%EF%BC%A1%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%E6%96%B0%E5%B7%9D&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "namcoアリオ札幌",
+    "address": "北海道札幌市東区北七条東9-2-20",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%8C%97%E4%B8%83%E6%9D%A1%E6%9D%B19-2-20&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "namcoラソラ札幌店",
+    "address": "北海道札幌市白石区東札幌三条 1丁目1-1ラソラ札幌店 Aタウン2F",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E7%99%BD%E7%9F%B3%E5%8C%BA%E6%9D%B1%E6%9C%AD%E5%B9%8C%E4%B8%89%E6%9D%A11%E4%B8%81%E7%9B%AE1-1%E3%83%A9%E3%82%BD%E3%83%A9%E6%9C%AD%E5%B9%8C%E5%BA%97+A%E3%82%BF%E3%82%A6%E3%83%B32F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "namco札幌エスタ店",
+    "address": "北海道札幌市中央区北5条西2丁目1番地1 札幌エスタ9階",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0300",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%975%E6%9D%A1%E8%A5%BF2%E4%B8%81%E7%9B%AE1%E7%95%AA%E5%9C%B01%E6%9C%AD%E5%B9%8C%E3%82%A8%E3%82%B9%E3%82%BF9%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "げーむぱーくぎゃらくしー 西友厚別店",
+    "address": "北海道札幌市厚別区厚別西4条6-700-126 西友厚別2階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA%E5%8E%9A%E5%88%A5%E8%A5%BF4%E6%9D%A16-700-126%E8%A5%BF%E5%8F%8B%E5%8E%9A%E5%88%A52%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "げーむぱーくぎゃらくしー西友西町店",
+    "address": "北海道札幌市西区西町南6-1-1",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E8%A5%BF%E7%94%BA%E5%8D%976-1-1&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "アドアーズ札幌北42条店",
+    "address": "北海道札幌市東区北42条東7丁目1-1 嶋ビル2階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%8C%9742%E6%9D%A1%E6%9D%B17%E4%B8%81%E7%9B%AE1-1%E5%B6%8B%E3%83%93%E3%83%AB2%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン札幌藻岩店",
+    "address": "北海道札幌市南区川沿２条２－１－１ イオン札幌藻岩",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%B7%9D%E6%B2%BF%EF%BC%92%E6%9D%A1%EF%BC%92%EF%BC%8D%EF%BC%91%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AD%E5%B9%8C%E8%97%BB%E5%B2%A9&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イトーヨーカドーアリオ札幌店",
+    "address": "北海道札幌市東区北7条東9-2-20 アリオ札幌",
+    "machines": [
+      {
+        "slots": [],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%8C%977%E6%9D%A1%E6%9D%B19-2-20%E3%82%A2%E3%83%AA%E3%82%AA%E6%9C%AD%E5%B9%8C&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イトーヨーカドー屯田店",
+    "address": "北海道札幌市北区屯田八条３－５－１ イトーヨカドー屯田",
+    "machines": [
+      {
+        "slots": [],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%E5%B1%AF%E7%94%B0%E5%85%AB%E6%9D%A1%EF%BC%93%EF%BC%8D%EF%BC%95%EF%BC%8D%EF%BC%91%E3%82%A4%E3%83%88%E3%83%BC%E3%83%A8%E3%82%AB%E3%83%89%E3%83%BC%E5%B1%AF%E7%94%B0&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イトーヨーカドー琴似店",
+    "address": "北海道札幌市西区琴似２条１－４－１ イトーヨーカドー琴似",
+    "machines": [
+      {
+        "slots": [],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%90%B4%E4%BC%BC%EF%BC%92%E6%9D%A1%EF%BC%91%EF%BC%8D%EF%BC%94%EF%BC%8D%EF%BC%91%E3%82%A4%E3%83%88%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AB%E3%83%89%E3%83%BC%E7%90%B4%E4%BC%BC&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イトーヨーカドー福住店",
+    "address": "北海道札幌市豊平区福住二条１－２－５ イトーヨーカドー福住",
+    "machines": [
+      {
+        "slots": [],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%B1%8A%E5%B9%B3%E5%8C%BA%E7%A6%8F%E4%BD%8F%E4%BA%8C%E6%9D%A1%EF%BC%91%EF%BC%8D%EF%BC%92%EF%BC%8D%EF%BC%95%E3%82%A4%E3%83%88%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AB%E3%83%89%E3%83%BC%E7%A6%8F%E4%BD%8F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "キャッツアイミュンヘン大橋店",
+    "address": "北海道札幌市豊平区平岸一条23丁目 801-1",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%B1%8A%E5%B9%B3%E5%8C%BA%E5%B9%B3%E5%B2%B8%E4%B8%80%E6%9D%A123%E4%B8%81%E7%9B%AE801-1&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "キャッツアイ宮の沢店",
+    "address": "北海道札幌市手稲区西宮の沢 5 条 2 丁目 11-15",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%89%8B%E7%A8%B2%E5%8C%BA%E8%A5%BF%E5%AE%AE%E3%81%AE%E6%B2%A2+5+%E6%9D%A1+2+%E4%B8%81%E7%9B%AE+11-15&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "キャッツアイ新川店",
+    "address": "北海道札幌市北区新川二条7丁目1-7 キャッツアイ新川",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%E6%96%B0%E5%B7%9D%E4%BA%8C%E6%9D%A17%E4%B8%81%E7%9B%AE1-7%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84%E3%82%A2%E3%82%A4%E6%96%B0%E5%B7%9D&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "キャッツアイ新札幌店",
+    "address": "北海道札幌市厚別区厚別東5条1丁目1-10 キャッツアイ新札幌",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA%E5%8E%9A%E5%88%A5%E6%9D%B15%E6%9D%A11%E4%B8%81%E7%9B%AE1-10%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84%E3%82%A2%E3%82%A4%E6%96%B0%E6%9C%AD%E5%B9%8C&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "キャッツアイ清田店",
+    "address": "北海道札幌市清田区清田一条一丁目２０－１ キャッツアイ清田",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%B8%85%E7%94%B0%E5%8C%BA%E6%B8%85%E7%94%B0%E4%B8%80%E6%9D%A1%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%90%EF%BC%8D%EF%BC%91%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84%E3%82%A2%E3%82%A4%E6%B8%85%E7%94%B0&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "キャッツアイ篠路店",
+    "address": "北海道札幌市北区篠路一条４丁目６－３０ キャッツアイ篠路",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%E7%AF%A0%E8%B7%AF%E4%B8%80%E6%9D%A1%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%96%EF%BC%8D%EF%BC%93%EF%BC%90%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84%E3%82%A2%E3%82%A4%E7%AF%A0%E8%B7%AF&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ゲームランド新さっぽろ店",
+    "address": "北海道札幌市厚別区厚別中央2条5-7 カテプリさっぽろ 3F",
+    "machines": [
+      {
+        "slots": [
+          "0300",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0100",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA%E5%8E%9A%E5%88%A5%E4%B8%AD%E5%A4%AE2%E6%9D%A15-7%E3%82%AB%E3%83%86%E3%83%97%E3%83%AA%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D+3F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "コジマXビックカメラ イオン西岡店",
+    "address": "北海道札幌市豊平区 西岡3条3-4-1",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0200",
+          "0200"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%B1%8A%E5%B9%B3%E5%8C%BA+%E8%A5%BF%E5%B2%A13%E6%9D%A13-4-1&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ソユーゲームフィールド 苗穂店",
+    "address": "北海道札幌市東区東苗穂二条3-1-1 イオンモール札幌苗穂2F",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA%E6%9D%B1%E8%8B%97%E7%A9%82%E4%BA%8C%E6%9D%A13-1-1%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%9C%AD%E5%B9%8C%E8%8B%97%E7%A9%822F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ソユーゲームフィールド札幌発寒店",
+    "address": "北海道札幌市西区発寒八条12-1-1 イオンモール札幌発寒3F",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%99%BA%E5%AF%92%E5%85%AB%E6%9D%A112-1-1%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%9C%AD%E5%B9%8C%E7%99%BA%E5%AF%923F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "タイトーステーション イオン札幌平岡店",
+    "address": "北海道札幌市清田区平岡三条5-3-1 イオンモール札幌平岡店2F",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%B8%85%E7%94%B0%E5%8C%BA%E5%B9%B3%E5%B2%A1%E4%B8%89%E6%9D%A15-3-1%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%9C%AD%E5%B9%8C%E5%B9%B3%E5%B2%A1%E5%BA%972F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "タイトーステーション札幌狸小路2丁目店",
+    "address": "北海道札幌市中央区南三条西2-14",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E4%B8%89%E6%9D%A1%E8%A5%BF2-14&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパーク札幌手稲店",
+    "address": "北海道札幌市手稲区前田1条11丁目 メルシャンプラースビル3階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%89%8B%E7%A8%B2%E5%8C%BA%E5%89%8D%E7%94%B01%E6%9D%A111%E4%B8%81%E7%9B%AE%E3%83%A1%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B9%E3%83%93%E3%83%AB3%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ビックカメラ札幌店",
+    "address": "北海道札幌市中央区北５条西２－１ 札幌エスタ",
+    "machines": [
+      {
+        "slots": [
+          "0100",
+          "0100"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0300",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%EF%BC%95%E6%9D%A1%E8%A5%BF%EF%BC%92%EF%BC%8D%EF%BC%91%E6%9C%AD%E5%B9%8C%E3%82%A8%E3%82%B9%E3%82%BF&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "プラボ札幌西町店",
+    "address": "北海道札幌市西区西町北１３丁目１番 ワンダーシティ札幌",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E8%A5%BF%E7%94%BA%E5%8C%97%EF%BC%91%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%E7%95%AA%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E6%9C%AD%E5%B9%8C&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー手稲山口店",
+    "address": "北海道札幌市手稲区明日風６丁目１番１号 イオンスーパーセンター手稲山口１階",
+    "machines": [
+      {
+        "slots": [
+          "0100",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%89%8B%E7%A8%B2%E5%8C%BA%E6%98%8E%E6%97%A5%E9%A2%A8%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%91%E7%95%AA%EF%BC%91%E5%8F%B7%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%89%8B%E7%A8%B2%E5%B1%B1%E5%8F%A3%EF%BC%91%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー札幌元町店",
+    "address": "北海道札幌市東区北３１条東１５丁目１－１ イオン札幌元町３階",
+    "machines": [
+      {
+        "slots": [
+          "0300",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0300",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%8C%97%EF%BC%93%EF%BC%91%E6%9D%A1%E6%9D%B1%EF%BC%91%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AD%E5%B9%8C%E5%85%83%E7%94%BA%EF%BC%93%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー札幌平岡店",
+    "address": "北海道札幌市清田区平岡３条５丁目３－１ イオン札幌平岡２階",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%B8%85%E7%94%B0%E5%8C%BA%E5%B9%B3%E5%B2%A1%EF%BC%93%E6%9D%A1%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%93%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AD%E5%B9%8C%E5%B9%B3%E5%B2%A1%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー札幌桑園店",
+    "address": "北海道札幌市中央区北８条西１４丁目２８番地 イオン札幌桑園２階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%EF%BC%98%E6%9D%A1%E8%A5%BF%EF%BC%91%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%98%E7%95%AA%E5%9C%B0%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AD%E5%B9%8C%E6%A1%91%E5%9C%92%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー札幌琴似店",
+    "address": "北海道札幌市西区琴似2条4-2-2",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%90%B4%E4%BC%BC2%E6%9D%A14-2-2&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー札幌発寒店",
+    "address": "北海道札幌市西区発寒８条１２丁目１－１ イオン札幌発寒ＳＣ３階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0100"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%99%BA%E5%AF%92%EF%BC%98%E6%9D%A1%EF%BC%91%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AD%E5%B9%8C%E7%99%BA%E5%AF%92%EF%BC%B3%EF%BC%A3%EF%BC%93%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー札幌苗穂店",
+    "address": "北海道札幌市東区東苗穂２条３丁目１番１号 イオン札幌苗穂２階",
+    "machines": [
+      {
+        "slots": [
+          "0300",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0100",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA%E6%9D%B1%E8%8B%97%E7%A9%82%EF%BC%92%E6%9D%A1%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%E7%95%AA%EF%BC%91%E5%8F%B7%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AD%E5%B9%8C%E8%8B%97%E7%A9%82%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー札幌麻生店",
+    "address": "北海道札幌市北区北39条西4-1-5 ダイエー麻生4F",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%E5%8C%9739%E6%9D%A1%E8%A5%BF4-1-5%E3%83%80%E3%82%A4%E3%82%A8%E3%83%BC%E9%BA%BB%E7%94%9F4F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー東札幌店",
+    "address": "北海道札幌市白石区東札幌3条2-1 イオン東札幌2F",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E7%99%BD%E7%9F%B3%E5%8C%BA%E6%9D%B1%E6%9C%AD%E5%B9%8C3%E6%9D%A12-1%E3%82%A4%E3%82%AA%E3%83%B3%E6%9D%B1%E6%9C%AD%E5%B9%8C2F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ヨドバシカメラマルチメディア札幌",
+    "address": "北海道札幌市北区北６条西５－１－２２ ヨドバシカメラマルチメディア札幌",
+    "machines": [
+      {
+        "slots": [
+          "0200",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0100",
+          "0100"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%E5%8C%97%EF%BC%96%E6%9D%A1%E8%A5%BF%EF%BC%95%EF%BC%8D%EF%BC%91%EF%BC%8D%EF%BC%92%EF%BC%92%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%9C%AD%E5%B9%8C&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "西友厚別店",
+    "address": "北海道札幌市厚別区厚別西４条６－７００－１２６ 西友厚別",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA%E5%8E%9A%E5%88%A5%E8%A5%BF%EF%BC%94%E6%9D%A1%EF%BC%96%EF%BC%8D%EF%BC%97%EF%BC%90%EF%BC%90%EF%BC%8D%EF%BC%91%EF%BC%92%EF%BC%96%E8%A5%BF%E5%8F%8B%E5%8E%9A%E5%88%A5&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ｎａｍｃｏサッポロファクトリー店",
+    "address": "北海道札幌市中央区北１条東４丁目１番地１ サッポロファクトリー",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%EF%BC%91%E6%9D%A1%E6%9D%B1%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%91%E7%95%AA%E5%9C%B0%EF%BC%91%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "PALO江別店",
+    "address": "北海道江別市幸町35 イオン江別3階",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%B1%9F%E5%88%A5%E5%B8%82%E5%B9%B8%E7%94%BA35%E3%82%A4%E3%82%AA%E3%83%B3%E6%B1%9F%E5%88%A53%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "PALO滝川店",
+    "address": "北海道滝川市東町2-29-1 イオン滝川1階",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%BB%9D%E5%B7%9D%E5%B8%82%E6%9D%B1%E7%94%BA2-29-1%E3%82%A4%E3%82%AA%E3%83%B3%E6%BB%9D%E5%B7%9D1%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー登別店",
+    "address": "北海道登別市若山町４－３３－１ イオン登別３階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E7%99%BB%E5%88%A5%E5%B8%82%E8%8B%A5%E5%B1%B1%E7%94%BA%EF%BC%94%EF%BC%8D%EF%BC%93%EF%BC%93%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E7%99%BB%E5%88%A5%EF%BC%93%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー石狩緑苑台店",
+    "address": "北海道石狩市緑苑台中央１丁目２番 イオンスーパーセンター石狩緑苑台１階",
+    "machines": [
+      {
+        "slots": [
+          "0100",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E7%9F%B3%E7%8B%A9%E5%B8%82%E7%B7%91%E8%8B%91%E5%8F%B0%E4%B8%AD%E5%A4%AE%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%92%E7%95%AA%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%9F%B3%E7%8B%A9%E7%B7%91%E8%8B%91%E5%8F%B0%EF%BC%91%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "遊ランド稚内店",
+    "address": "北海道稚内市港5丁目8-15",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E7%A8%9A%E5%86%85%E5%B8%82%E6%B8%AF5%E4%B8%81%E7%9B%AE8-15&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "PALO網走店",
+    "address": "北海道網走市駒場北5-83 駒場ショッピングタウン",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E7%B6%B2%E8%B5%B0%E5%B8%82%E9%A7%92%E5%A0%B4%E5%8C%975-83%E9%A7%92%E5%A0%B4%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BF%E3%82%A6%E3%83%B3&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "MEGAドン・キホーテ苫小牧店",
+    "address": "北海道苫小牧市木場町１－６－１ ＭＥＧＡドン・キホーテ苫小牧",
+    "machines": [
+      {
+        "slots": [
+          "0100",
+          "0100"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E6%9C%A8%E5%A0%B4%E7%94%BA%EF%BC%91%EF%BC%8D%EF%BC%96%EF%BC%8D%EF%BC%91%EF%BC%AD%EF%BC%A5%EF%BC%A7%EF%BC%A1%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%E8%8B%AB%E5%B0%8F%E7%89%A7&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "PALO苫小牧店",
+    "address": "北海道苫小牧市糸井135-1 トライアル苫小牧G棟",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%B3%B8%E4%BA%95135-1%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%AB%E8%8B%AB%E5%B0%8F%E7%89%A7G%E6%A3%9F&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "ディノスパーク苫小牧",
+    "address": "北海道苫小牧市柳町３丁目１－２０ イオン苫小牧２階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E6%9F%B3%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%8D%EF%BC%92%EF%BC%90%E3%82%A4%E3%82%AA%E3%83%B3%E8%8B%AB%E5%B0%8F%E7%89%A7%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー苫小牧店",
+    "address": "北海道苫小牧市柳町３－１－２０ イオン苫小牧２階",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0100",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E6%9F%B3%E7%94%BA%EF%BC%93%EF%BC%8D%EF%BC%91%EF%BC%8D%EF%BC%92%EF%BC%90%E3%82%A4%E3%82%AA%E3%83%B3%E8%8B%AB%E5%B0%8F%E7%89%A7%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "タイトーステーションイオン釧路昭和店",
+    "address": "北海道釧路市昭和中央４－１８－１ イオン釧路昭和２Ｆ",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E9%87%A7%E8%B7%AF%E5%B8%82%E6%98%AD%E5%92%8C%E4%B8%AD%E5%A4%AE%EF%BC%94%EF%BC%8D%EF%BC%91%EF%BC%98%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E9%87%A7%E8%B7%AF%E6%98%AD%E5%92%8C%EF%BC%92%EF%BC%A6&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー釧路昭和店",
+    "address": "北海道釧路市昭和中央４－１８－１ イオン釧路昭和２階",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0400",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E9%87%A7%E8%B7%AF%E5%B8%82%E6%98%AD%E5%92%8C%E4%B8%AD%E5%A4%AE%EF%BC%94%EF%BC%8D%EF%BC%91%EF%BC%98%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E9%87%A7%E8%B7%AF%E6%98%AD%E5%92%8C%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "イオン静内店",
+    "address": "北海道日高郡新ひだか町静内末広町２－２－１ イオン静内",
+    "machines": [
+      {
+        "slots": [
+          "0100",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%A5%E9%AB%98%E9%83%A1%E6%96%B0%E3%81%B2%E3%81%A0%E3%81%8B%E7%94%BA%E9%9D%99%E5%86%85%E6%9C%AB%E5%BA%83%E7%94%BA%EF%BC%92%EF%BC%8D%EF%BC%92%EF%BC%8D%EF%BC%91%E3%82%A4%E3%82%AA%E3%83%B3%E9%9D%99%E5%86%85&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "キャッツアイ静内",
+    "address": "北海道日高郡新ひだか町静内木場町2-1-41",
+    "machines": [
+      {
+        "slots": [
+          "0500",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%97%A5%E9%AB%98%E9%83%A1%E6%96%B0%E3%81%B2%E3%81%A0%E3%81%8B%E7%94%BA%E9%9D%99%E5%86%85%E6%9C%A8%E5%A0%B4%E7%94%BA2-1-41&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "モーリーファンタジー中標津店",
+    "address": "北海道標津郡中標津町南町3-10 東武サウスヒルズ1階",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0300",
+          "0300"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%A8%99%E6%B4%A5%E9%83%A1%E4%B8%AD%E6%A8%99%E6%B4%A5%E7%94%BA%E5%8D%97%E7%94%BA3-10%E6%9D%B1%E6%AD%A6%E3%82%B5%E3%82%A6%E3%82%B9%E3%83%92%E3%83%AB%E3%82%BA1%E9%9A%8E&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "トイザらス帯広音更店",
+    "address": "北海道河東郡音更町木野大通西１７－１ スーパーオーケーセンター音更",
+    "machines": [
+      {
+        "slots": [
+          "0400",
+          "0400"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E6%B2%B3%E6%9D%B1%E9%83%A1%E9%9F%B3%E6%9B%B4%E7%94%BA%E6%9C%A8%E9%87%8E%E5%A4%A7%E9%80%9A%E8%A5%BF%EF%BC%91%EF%BC%97%EF%BC%8D%EF%BC%91%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%9F%B3%E6%9B%B4&hl=ja&ie=UTF8"
+  },
+  {
+    "prefName": "北海道",
+    "name": "PALO釧路店",
+    "address": "北海道釧路郡釧路町桂木１－１－７ イオン釧路２階",
+    "machines": [
+      {
+        "slots": [
+          "0300",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0300",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      },
+      {
+        "slots": [
+          "0300",
+          "0500"
+        ],
+        "lastupdate": "2021-12-10"
+      }
+    ],
+    "googlemap": "https://maps.google.co.jp/maps?q=%E9%87%A7%E8%B7%AF%E9%83%A1%E9%87%A7%E8%B7%AF%E7%94%BA%E6%A1%82%E6%9C%A8%EF%BC%91%EF%BC%8D%EF%BC%91%EF%BC%8D%EF%BC%97%E3%82%A4%E3%82%AA%E3%83%B3%E9%87%A7%E8%B7%AF%EF%BC%92%E9%9A%8E&hl=ja&ie=UTF8"
+  }
+]
